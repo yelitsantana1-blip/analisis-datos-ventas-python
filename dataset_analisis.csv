@@ -1,0 +1,78 @@
+id,fecha,vendedor,region,categoria,producto,cantidad,precio_unitario,descuento,cliente,edad_cliente,genero
+1,2024-01-03,Ana Garcia,Norte,Electronica,Laptop,2,35000.00,0.05,Juan Perez,34,M
+2,2024-01-05,Carlos Lopez,Sur,Ropa,Camiseta,15,850.00,0.00,Maria Santos,28,F
+3,2024-01-07,Maria Perez,Este,Alimentacion,Arroz 5lb,30,250.00,0.10,Pedro Gomez,45,M
+4,2024-01-08,Ana Garcia,Norte,Electronica,Audifonos,8,1200.00,0.05,Laura Diaz,31,F
+5,2024-01-10,Luis Soto,Oeste,Ropa,Pantalon,10,1500.00,0.00,Carlos Ruiz,52,M
+6,2024-01-12,Carlos Lopez,Sur,Alimentacion,Aceite 1L,25,180.00,0.00,Ana Torres,29,F
+7,2024-01-14,Maria Perez,Este,Electronica,Mouse,20,650.00,0.05,Roberto Silva,38,M
+8,2024-01-15,Ana Garcia,Norte,Hogar,Sarten,12,950.00,0.00,Lucia Mora,41,F
+9,2024-01-17,Luis Soto,Oeste,Alimentacion,Leche 1L,40,120.00,0.00,Miguel Vargas,25,M
+10,2024-01-19,Carlos Lopez,Sur,Electronica,Teclado,6,1800.00,0.05,Sofia Reyes,33,F
+11,2024-01-21,Maria Perez,Este,Ropa,Vestido,7,2200.00,0.10,Diego Castro,47,M
+12,2024-01-23,Ana Garcia,Norte,Hogar,Licuadora,5,3500.00,0.00,Elena Fuentes,36,F
+13,2024-01-25,Luis Soto,Oeste,Electronica,Tablet,3,18000.00,0.05,Pablo Herrera,29,M
+14,2024-01-27,Carlos Lopez,Sur,Hogar,Plancha,8,2800.00,0.00,Isabel Mendez,44,F
+15,2024-01-29,Maria Perez,Este,Alimentacion,Pasta 500g,35,95.00,0.00,Fernando Lopez,31,M
+16,2024-02-01,Ana Garcia,Norte,Electronica,Laptop,1,35000.00,0.10,Carmen Vega,55,F
+17,2024-02-03,Luis Soto,Oeste,Ropa,Zapatos,9,3200.00,0.00,Jose Martinez,42,M
+18,2024-02-05,Carlos Lopez,Sur,Alimentacion,Aceite 1L,20,180.00,0.00,Patricia Rojas,28,F
+19,2024-02-07,Maria Perez,Este,Hogar,Microondas,4,12000.00,0.05,Ricardo Blanco,39,M
+20,2024-02-09,Ana Garcia,Norte,Ropa,Chaqueta,6,4500.00,0.10,Gabriela Rios,33,F
+21,2024-02-11,Luis Soto,Oeste,Electronica,Audifonos,11,1200.00,0.00,Andres Pena,27,M
+22,2024-02-13,Carlos Lopez,Sur,Electronica,Mouse,14,650.00,0.05,Beatriz Salazar,35,F
+23,2024-02-15,Maria Perez,Este,Ropa,Camiseta,22,850.00,0.00,Hector Medina,48,M
+24,2024-02-17,Ana Garcia,Norte,Alimentacion,Arroz 5lb,18,250.00,0.00,Natalia Cruz,30,F
+25,2024-02-19,Luis Soto,Oeste,Hogar,Sarten,7,950.00,0.05,Oscar Jimenez,37,M
+26,2024-02-21,Carlos Lopez,Sur,Electronica,Teclado,9,1800.00,0.00,Valeria Moreno,26,F
+27,2024-02-23,Maria Perez,Este,Electronica,Mouse,16,650.00,0.05,Ernesto Campos,43,M
+28,2024-02-25,Ana Garcia,Norte,Hogar,Licuadora,3,3500.00,0.10,Claudia Santos,32,F
+29,2024-02-27,Luis Soto,Oeste,Alimentacion,Leche 1L,50,120.00,0.00,Rafael Guerrero,51,M
+30,2024-02-29,Carlos Lopez,Sur,Ropa,Pantalon,12,1500.00,0.05,Monica Aguilar,24,F
+31,2024-03-02,Ana Garcia,Norte,Electronica,Monitor,2,28000.00,0.05,Nicolas Soto,40,M
+32,2024-03-04,Luis Soto,Oeste,Alimentacion,Pasta 500g,28,95.00,0.00,Daniela Rojas,29,F
+33,2024-03-06,Carlos Lopez,Sur,Hogar,Microondas,3,12000.00,0.10,Eduardo Vega,36,M
+34,2024-03-08,Maria Perez,Este,Ropa,Vestido,5,2200.00,0.00,Adriana Torres,44,F
+35,2024-03-10,Ana Garcia,Norte,Electronica,Tablet,4,18000.00,0.05,Manuel Diaz,31,M
+36,2024-03-12,Luis Soto,Oeste,Ropa,Zapatos,11,3200.00,0.00,Silvia Mora,27,F
+37,2024-03-14,Carlos Lopez,Sur,Electronica,Laptop,1,35000.00,0.00,Jorge Herrera,49,M
+38,2024-03-16,Maria Perez,Este,Alimentacion,Aceite 1L,22,180.00,0.05,Lorena Medina,33,F
+39,2024-03-18,Ana Garcia,Norte,Hogar,Plancha,6,2800.00,0.00,Sergio Blanco,38,M
+40,2024-03-20,Luis Soto,Oeste,Electronica,Monitor,1,28000.00,0.10,Teresa Campos,46,F
+41,2024-03-22,Carlos Lopez,Sur,Alimentacion,Arroz 5lb,32,250.00,0.00,Julio Santos,25,M
+42,2024-03-24,Maria Perez,Este,Electronica,Audifonos,15,1200.00,0.05,Patricia Cruz,35,F
+43,2024-03-26,Ana Garcia,Norte,Ropa,Chaqueta,8,4500.00,0.00,Roberto Rios,52,M
+44,2024-03-28,Luis Soto,Oeste,Alimentacion,Leche 1L,45,120.00,0.00,Alejandra Fuentes,28,F
+45,2024-03-30,Carlos Lopez,Sur,Hogar,Sarten,10,950.00,0.05,Victor Vargas,41,M
+46,Ana Garcia,Norte,Electronica,Mouse,5,650.00,0.00,Carmen Lopez,30,F
+47,2024-04-02,Carlos Lopez,Ropa,Camiseta,8,850.00,0.10,Luis Gonzalez,22,M
+48,2024-04-04,Maria Perez,Este,Laptop,2,35000.00,0.05,Rosa Jimenez,37,F
+49,2024-04-06,Luis Soto,Oeste,Hogar,Plancha,4,2800.00,0.00,Antonio Moreno,43,M
+50,2024-04-08,Ana Garcia,Norte,Alimentacion,Arroz 5lb,20,250.00,,Isabel Pena,31,F
+51,2024-04-10,Carlos Lopez,Sur,Electronica,Tablet,2,18000.00,0.05,Miguel Torres,48,M
+52,2024-04-12,Maria Perez,Este,Ropa,Vestido,6,2200.00,0.00,Sandra Herrera,26,F
+53,2024-04-14,Ana Garcia,Norte,Hogar,Licuadora,4,3500.00,0.10,Felipe Medina,34,M
+54,2024-04-16,Luis Soto,Oeste,Electronica,Teclado,7,1800.00,0.05,Gloria Blanco,29,F
+55,2024-04-18,Carlos Lopez,Sur,Alimentacion,Leche 1L,35,120.00,0.00,Arturo Campos,55,M
+56,2024-04-20,Maria Perez,Este,Electronica,Mouse,18,650.00,0.00,Pilar Santos,32,F
+57,2024-04-22,Ana Garcia,Norte,Ropa,Pantalon,9,1500.00,0.05,Rodrigo Cruz,44,M
+58,2024-04-24,Luis Soto,Oeste,Hogar,Microondas,2,12000.00,0.00,Marta Rios,27,F
+59,2024-04-26,Carlos Lopez,Sur,Electronica,Audifonos,12,1200.00,0.10,Gustavo Fuentes,39,M
+60,2024-04-28,Maria Perez,Este,Alimentacion,Pasta 500g,40,95.00,0.00,Alicia Vargas,33,F
+61,2024-04-30,Ana Garcia,Norte,Electronica,Laptop,1,35000.00,0.05,Bernardo Lopez,47,M
+62,2024-05-02,Luis Soto,Oeste,Ropa,Zapatos,8,3200.00,0.00,Cecilia Gonzalez,30,F
+63,2024-05-04,Carlos Lopez,Sur,Alimentacion,Arroz 5lb,25,250.00,0.00,Damian Jimenez,25,M
+64,2024-05-06,Maria Perez,Este,Hogar,Plancha,5,2800.00,0.05,Elena Moreno,42,F
+65,2024-05-08,Ana Garcia,Norte,Electronica,Monitor,3,28000.00,0.00,Fabian Pena,36,M
+66,2024-05-10,Luis Soto,Oeste,Electronica,Tablet,2,18000.00,0.10,Graciela Torres,28,F
+67,2024-05-12,Carlos Lopez,Sur,Hogar,Licuadora,6,3500.00,0.05,Humberto Herrera,51,M
+68,2024-05-14,Maria Perez,Este,Ropa,Chaqueta,4,4500.00,0.00,Irene Medina,35,F
+69,2024-05-16,Ana Garcia,Norte,Alimentacion,Leche 1L,30,120.00,0.00,Jacobo Blanco,29,M
+70,2024-05-18,Luis Soto,Oeste,Electronica,Mouse,20,650.00,0.05,Karen Campos,40,F
+71,2024-05-20,Carlos Lopez,Sur,Ropa,Vestido,9,2200.00,0.00,Leonardo Santos,33,M
+72,2024-05-22,Maria Perez,Este,Alimentacion,Aceite 1L,18,180.00,0.10,Miriam Cruz,26,F
+73,2024-05-24,Ana Garcia,Norte,Electronica,Teclado,8,1800.00,0.05,Nelson Rios,45,M
+74,2024-05-26,Luis Soto,Oeste,Hogar,Sarten,9,950.00,0.00,Olga Fuentes,31,F
+75,2024-05-28,Carlos Lopez,Sur,Electronica,Audifonos,14,1200.00,0.00,Pablo Vargas,38,M
+3,2024-01-07,Maria Perez,Este,Alimentacion,Arroz 5lb,30,250.00,0.10,Pedro Gomez,45,M
+10,2024-01-19,Carlos Lopez,Sur,Electronica,Teclado,6,1800.00,0.05,Sofia Reyes,33,F
